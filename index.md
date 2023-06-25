@@ -16,3 +16,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+# To Do
+- [ ] Check items
+- [ ] what other headings
